@@ -9,7 +9,7 @@
     "ai discord bot",
     "2pg"
   ],
-  "repository": "https://github.com/theADAMJR/6PG",
+  "repository": "https://github.com/zenkoodev/Bot",
   "env": {
     "API_URL": {
       "description": "The API URL [https://<heroku_app_name>.herokuapp.com/api]",    
